@@ -1,0 +1,65 @@
+SourceGENES,TargetGENES,Interaction,Edges
+g6,g7,1,activation
+g5,g7,0.988107212902553,activation
+g1,g7,0.756114673504784,repression
+g8,g7,0.561907560046739,repression
+g3,g2,0.54434736150911,activation
+g5,g3,0.494028338322925,activation
+g6,g3,0.449051098368683,repression
+g1,g4,0.353085793310618,repression
+g8,g4,0.341870214314364,repression
+g6,g4,0.327548525018844,activation
+g5,g4,0.325116764682285,activation
+g8,g5,0.28987189854453,activation
+g8,g6,0.280984109949976,activation
+g2,g8,0.268738413344585,activation
+g1,g5,0.267734975831971,activation
+g1,g6,0.262739465300904,activation
+g6,g5,0.261156784284603,activation
+g5,g5,0.25849074256299,activation
+g5,g6,0.256620852048904,activation
+g6,g6,0.248473783381476,activation
+g2,g1,0.24311189102028,activation
+g3,g7,0.206389812052498,activation
+g4,g7,0.198712011394087,repression
+g2,g2,0.194966643394873,activation
+g8,g1,0.171982067011851,activation
+g1,g3,0.154065216984546,activation
+g2,g5,0.153047008841843,repression
+g4,g3,0.140289323044449,activation
+g2,g6,0.139646772995511,activation
+g5,g1,0.136004497074121,activation
+g3,g3,0.131185813908229,activation
+g2,g7,0.1231165377344,activation
+g1,g1,0.121525195745352,activation
+g6,g1,0.11528220813138,activation
+g3,g8,0.113125117115483,repression
+g7,g7,0.109225276009341,activation
+g2,g4,0.0626520669211482,repression
+g8,g8,0.0611903020603547,activation
+g7,g1,0.0568704512616173,repression
+g7,g8,0.0556709805114564,repression
+g3,g1,0.0507811132657502,activation
+g8,g3,0.048198157361774,repression
+g7,g3,0.0476171929530724,activation
+g7,g6,0.0396358473824045,activation
+g4,g6,0.0373031890528353,activation
+g7,g5,0.0356962654752763,activation
+g4,g5,0.0351165849625735,activation
+g4,g1,0.0347301752070346,repression
+g4,g4,0.0316769557220242,activation
+g6,g8,0.0253878223731899,activation
+g4,g8,0.0241002216277717,repression
+g5,g8,0.0225244602803441,activation
+g7,g4,0.0196951636287976,repression
+g1,g8,0.0176660440525849,activation
+g1,g2,0,no regulation
+g2,g3,0,no regulation
+g3,g4,0,no regulation
+g3,g5,0,no regulation
+g3,g6,0,no regulation
+g4,g2,0,no regulation
+g5,g2,0,no regulation
+g6,g2,0,no regulation
+g7,g2,0,no regulation
+g8,g2,0,no regulation
