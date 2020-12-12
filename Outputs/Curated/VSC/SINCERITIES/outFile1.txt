@@ -1,0 +1,65 @@
+SourceGENES,TargetGENES,Interaction,Edges
+Olig2,Nkx61,1,activation
+Nkx22,Pax6,0.815783605835778,repression
+Olig2,Pax6,0.720572326435864,repression
+Dbx1,Pax6,0.699194455201259,repression
+Nkx22,Nkx61,0.628403027546871,repression
+Nkx22,Nkx62,0.621319531673098,activation
+Nkx62,Nkx61,0.604704156641042,repression
+Nkx22,Irx3,0.567253156967298,repression
+Olig2,Nkx62,0.56593636270128,activation
+Dbx2,Pax6,0.565467058423927,activation
+Nkx22,Olig2,0.557419012931923,activation
+Irx3,Nkx61,0.545595125605608,activation
+Olig2,Dbx2,0.536437957173923,activation
+Irx3,Nkx62,0.531274917043972,activation
+Dbx1,Nkx61,0.501772611553629,repression
+Irx3,Pax6,0.500214003487584,activation
+Nkx62,Pax6,0.486423323469774,activation
+Olig2,Irx3,0.459157115231831,repression
+Dbx1,Irx3,0.457111161062376,repression
+Olig2,Dbx1,0.443055893077703,activation
+Irx3,Irx3,0.433415487114117,activation
+Dbx1,Nkx62,0.429107204775946,activation
+Dbx2,Irx3,0.418673376453777,repression
+Nkx22,Nkx22,0.405688003177358,activation
+Dbx1,Olig2,0.404096800148733,activation
+Nkx62,Nkx62,0.397977490804577,activation
+Nkx62,Irx3,0.384122285753912,activation
+Irx3,Olig2,0.374502230133463,repression
+Nkx22,Dbx1,0.371447324463853,repression
+Nkx62,Dbx2,0.352052088225464,activation
+Dbx2,Olig2,0.348570390183699,activation
+Nkx62,Dbx1,0.329787449072116,activation
+Olig2,Nkx22,0.323806795711588,activation
+Dbx2,Nkx22,0.320027834064508,activation
+Nkx62,Nkx22,0.31295515089646,activation
+Dbx2,Dbx1,0.293146021991725,activation
+Dbx1,Nkx22,0.292176444986761,repression
+Nkx22,Dbx2,0.29067858525582,activation
+Irx3,Nkx22,0.285174299394027,repression
+Dbx1,Dbx1,0.281607227915045,activation
+Irx3,Dbx1,0.256182467928015,repression
+Dbx2,Nkx61,0.245584392678765,repression
+Irx3,Dbx2,0.243515647523441,repression
+Nkx62,Olig2,0.242517398456676,activation
+Dbx2,Nkx62,0.224524260571977,activation
+Dbx1,Dbx2,0.173076740739826,activation
+Dbx2,Dbx2,0.114442289114359,activation
+Olig2,Olig2,0.0280080232313077,activation
+Pax6,Nkx61,0.0131328230196146,activation
+Pax6,Pax6,0.00971729086101901,activation
+Pax6,Irx3,0.00637226105646609,activation
+Pax6,Dbx1,0.00454739236085696,repression
+Pax6,Nkx62,0.00404574651850688,activation
+Pax6,Dbx2,0.00313516909081012,activation
+Pax6,Nkx22,0.00263366573068337,repression
+Pax6,Olig2,0.00086172564763324,repression
+Nkx61,Nkx61,1.5142352117162e-38,activation
+Nkx61,Dbx1,0,no regulation
+Nkx61,Dbx2,0,no regulation
+Nkx61,Irx3,0,no regulation
+Nkx61,Nkx22,0,no regulation
+Nkx61,Nkx62,0,no regulation
+Nkx61,Olig2,0,no regulation
+Nkx61,Pax6,0,no regulation

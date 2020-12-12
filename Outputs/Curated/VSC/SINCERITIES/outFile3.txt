@@ -1,0 +1,65 @@
+SourceGENES,TargetGENES,Interaction,Edges
+Dbx2,Nkx22,1.38032000704613,repression
+Pax6,Olig2,1.0082706713206,repression
+Olig2,Nkx61,1,activation
+Pax6,Nkx61,0.746902762890801,activation
+Dbx2,Nkx61,0.724559454807157,repression
+Dbx2,Irx3,0.690756095097218,activation
+Dbx2,Dbx1,0.653680306883961,activation
+Pax6,Nkx22,0.631004109625997,repression
+Pax6,Nkx62,0.590979307035057,activation
+Dbx1,Nkx61,0.545880516946985,repression
+Pax6,Irx3,0.494489354446703,repression
+Pax6,Pax6,0.364661022717651,activation
+Dbx1,Nkx22,0.361243484026225,repression
+Olig2,Irx3,0.206496160844172,repression
+Pax6,Dbx2,0.158964828274075,activation
+Dbx1,Irx3,0.116083001366424,activation
+Nkx62,Nkx61,1.21138161546949e-35,activation
+Irx3,Nkx22,5.63165774630273e-36,repression
+Nkx22,Nkx61,5.41607295290888e-36,activation
+Nkx62,Nkx22,4.93194496743494e-36,activation
+Nkx62,Dbx2,3.87585686493819e-36,activation
+Nkx22,Nkx22,2.34453000212464e-36,activation
+Irx3,Nkx61,1.90565098241565e-36,repression
+Nkx62,Olig2,7.48124567641393e-37,activation
+Irx3,Irx3,1.51755131034747e-37,activation
+Nkx61,Nkx61,1.03505469432913e-37,activation
+Dbx1,Dbx1,0,no regulation
+Dbx1,Dbx2,0,no regulation
+Dbx1,Nkx62,0,no regulation
+Dbx1,Olig2,0,no regulation
+Dbx1,Pax6,0,no regulation
+Dbx2,Dbx2,0,no regulation
+Dbx2,Nkx62,0,no regulation
+Dbx2,Olig2,0,no regulation
+Dbx2,Pax6,0,no regulation
+Irx3,Dbx1,0,no regulation
+Irx3,Dbx2,0,no regulation
+Irx3,Nkx62,0,no regulation
+Irx3,Olig2,0,no regulation
+Irx3,Pax6,0,no regulation
+Nkx22,Dbx1,0,no regulation
+Nkx22,Dbx2,0,no regulation
+Nkx22,Irx3,0,no regulation
+Nkx22,Nkx62,0,no regulation
+Nkx22,Olig2,0,no regulation
+Nkx22,Pax6,0,no regulation
+Nkx61,Dbx1,0,no regulation
+Nkx61,Dbx2,0,no regulation
+Nkx61,Irx3,0,no regulation
+Nkx61,Nkx22,0,no regulation
+Nkx61,Nkx62,0,no regulation
+Nkx61,Olig2,0,no regulation
+Nkx61,Pax6,0,no regulation
+Nkx62,Dbx1,0,no regulation
+Nkx62,Irx3,0,no regulation
+Nkx62,Nkx62,0,no regulation
+Nkx62,Pax6,0,no regulation
+Olig2,Dbx1,0,no regulation
+Olig2,Dbx2,0,no regulation
+Olig2,Nkx22,0,no regulation
+Olig2,Nkx62,0,no regulation
+Olig2,Olig2,0,no regulation
+Olig2,Pax6,0,no regulation
+Pax6,Dbx1,0,no regulation

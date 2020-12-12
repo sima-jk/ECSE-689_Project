@@ -1,0 +1,9 @@
+Gene_Name	influence
+Nkx22	7.06162
+Nkx61	0.54235
+Olig2	0.08041
+Dbx2	0.05766
+Irx3	0.04594
+Pax6	0.04197
+Nkx62	0.03585
+Dbx1	0.03388
