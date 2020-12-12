@@ -1,0 +1,6 @@
+Gene_Name	influence
+Fgf8	7.74
+Sp8	0.70216
+Pax6	0.17203
+Emx2	0.04166
+Coup	0

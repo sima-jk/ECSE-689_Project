@@ -1,0 +1,11 @@
+Regulator	Target	SINGE_Score
+Coup	Pax6	6
+Coup	Fgf8	1.5
+Emx2	Pax6	0.66666
+Emx2	Sp8	0.375
+Emx2	Fgf8	0.24
+Sp8	Pax6	0.12244
+Sp8	Fgf8	0.07407
+Fgf8	Pax6	0.06
+Coup	Sp8	0.04166
+Pax6	Fgf8	0.03061
