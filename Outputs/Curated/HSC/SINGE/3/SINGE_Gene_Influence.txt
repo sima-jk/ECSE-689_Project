@@ -1,0 +1,12 @@
+Gene_Name	influence
+Cebpa	0
+EgrNab	0
+Eklf	0
+Fli1	0
+Fog1	0
+Gata1	0
+Gata2	0
+Gfi1	0
+Pu1	0
+Scl	0
+cJun	0

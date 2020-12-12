@@ -1,0 +1,122 @@
+SourceGENES,TargetGENES,Interaction,Edges
+Scl,Cebpa,1,activation
+Fli1,Cebpa,0.964400880607406,repression
+Fog1,Cebpa,0.932074784957205,repression
+Scl,Gfi1,0.891522282299923,repression
+Fli1,Gfi1,0.886429653300807,repression
+Scl,cJun,0.841332731787373,activation
+Fli1,cJun,0.789480162441034,activation
+Fog1,cJun,0.749624399430421,repression
+Fog1,Gfi1,0.729924609513023,activation
+Scl,Pu1,0.686105498954462,repression
+Fog1,Gata2,0.67920093449718,repression
+Fli1,Pu1,0.675073142843363,repression
+Fog1,EgrNab,0.67062615869517,activation
+Fli1,Gata2,0.652801389924909,repression
+Fog1,Pu1,0.649642813540149,repression
+Scl,Gata1,0.636817730790519,activation
+Gata2,Scl,0.636174013264316,repression
+Fli1,Gata1,0.588172016063286,activation
+Scl,Fog1,0.568297198797383,activation
+Scl,Fli1,0.555477999211435,activation
+Fli1,EgrNab,0.546290821050523,activation
+Eklf,EgrNab,0.519116904169834,repression
+Scl,Gata2,0.518569766264085,repression
+Fog1,Gata1,0.488851119942774,activation
+Scl,Eklf,0.48376118524552,activation
+Gata2,Fog1,0.469811633536559,repression
+Fog1,Fog1,0.461063069746635,activation
+Gata2,Eklf,0.457572603514332,activation
+Scl,Scl,0.423144167280348,activation
+Fog1,Scl,0.358901573732266,activation
+Gata2,Fli1,0.340624443481283,repression
+Fog1,Fli1,0.332131812853258,activation
+Scl,EgrNab,0.330612308109359,repression
+Fog1,Eklf,0.318329734335578,activation
+Fli1,Fog1,0.298558641611276,activation
+Gata2,EgrNab,0.282281277807982,activation
+Eklf,Cebpa,0.278028086123025,repression
+Pu1,Gfi1,0.273517995267192,activation
+Eklf,Gfi1,0.255295839596793,activation
+Gata2,Gata2,0.24371653336764,activation
+Pu1,Cebpa,0.23814264306296,activation
+Eklf,Gata2,0.21583845366006,activation
+Fli1,Fli1,0.209682133684783,activation
+Eklf,cJun,0.20632849760363,repression
+Fli1,Eklf,0.190370698194035,activation
+Eklf,Pu1,0.1809121309205,repression
+Pu1,Pu1,0.15719195629093,activation
+Eklf,Gata1,0.153104463061474,activation
+Pu1,cJun,0.141307607999178,activation
+Fli1,Scl,0.109744724345886,activation
+Eklf,Fog1,0.0980264607411421,activation
+Eklf,Scl,0.0855660243975105,activation
+Pu1,Gata2,0.0805674468264986,activation
+Pu1,Gata1,0.0637305883599889,repression
+Eklf,Fli1,0.0598109774433771,activation
+Pu1,EgrNab,0.0320670582555216,repression
+Gata1,Gata2,0.0143802808533718,activation
+Gata1,Cebpa,0.0129346629786413,repression
+Gata1,Gfi1,0.0112048678234923,repression
+Gata1,cJun,0.0108770578619729,repression
+Gata1,Pu1,0.00922968585977857,repression
+cJun,EgrNab,0.00742396315703793,repression
+EgrNab,Eklf,0.0056417219471692,repression
+Gata1,Gata1,0.00504231180408397,activation
+cJun,Cebpa,0.00500415020498152,activation
+cJun,Gfi1,0.00460638082353931,activation
+cJun,Gata2,0.00435676023346493,activation
+cJun,cJun,0.00378208096524652,activation
+cJun,Pu1,0.00348251114901587,activation
+cJun,Gata1,0.00274182028385361,repression
+Gata1,Eklf,0.00269602881357832,activation
+Cebpa,Cebpa,0.00262217198313082,activation
+Cebpa,Gfi1,0.00237381604926394,activation
+Cebpa,cJun,0.00235069284735827,activation
+EgrNab,Fli1,0.00216991383361227,activation
+EgrNab,Fog1,0.00200718346733262,activation
+Cebpa,Pu1,0.00198091474081166,activation
+EgrNab,Scl,0.00153385066292032,repression
+Cebpa,Gata1,0.00146293302452503,repression
+Cebpa,Gata2,0.00136937949448868,activation
+cJun,Fog1,0.000595699635986465,repression
+Cebpa,Eklf,0.000475786218021926,repression
+Gfi1,Eklf,1.02573471136095e-36,activation
+Gfi1,Gata2,2.79489130288395e-37,activation
+Cebpa,EgrNab,0,no regulation
+Cebpa,Fli1,0,no regulation
+Cebpa,Fog1,0,no regulation
+Cebpa,Scl,0,no regulation
+EgrNab,Cebpa,0,no regulation
+EgrNab,EgrNab,0,no regulation
+EgrNab,Gata1,0,no regulation
+EgrNab,Gata2,0,no regulation
+EgrNab,Gfi1,0,no regulation
+EgrNab,Pu1,0,no regulation
+EgrNab,cJun,0,no regulation
+Eklf,Eklf,0,no regulation
+Gata1,EgrNab,0,no regulation
+Gata1,Fli1,0,no regulation
+Gata1,Fog1,0,no regulation
+Gata1,Scl,0,no regulation
+Gata2,Cebpa,0,no regulation
+Gata2,Gata1,0,no regulation
+Gata2,Gfi1,0,no regulation
+Gata2,Pu1,0,no regulation
+Gata2,cJun,0,no regulation
+Gfi1,Cebpa,0,no regulation
+Gfi1,EgrNab,0,no regulation
+Gfi1,Fli1,0,no regulation
+Gfi1,Fog1,0,no regulation
+Gfi1,Gata1,0,no regulation
+Gfi1,Gfi1,0,no regulation
+Gfi1,Pu1,0,no regulation
+Gfi1,Scl,0,no regulation
+Gfi1,cJun,0,no regulation
+Pu1,Eklf,0,no regulation
+Pu1,Fli1,0,no regulation
+Pu1,Fog1,0,no regulation
+Pu1,Scl,0,no regulation
+cJun,Eklf,0,no regulation
+cJun,Fli1,0,no regulation
+cJun,Scl,0,no regulation

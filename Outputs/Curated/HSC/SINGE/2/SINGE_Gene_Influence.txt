@@ -1,0 +1,12 @@
+Gene_Name	influence
+Gata2	6.18073
+Eklf	2.22889
+Fog1	0.5749
+Fli1	0.30221
+Gfi1	0.18277
+Gata1	0.1042
+Scl	0.0296
+Cebpa	0.02748
+EgrNab	0.01004
+Pu1	0.00925
+cJun	0.00742
